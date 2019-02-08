@@ -25,7 +25,7 @@ class MainPage extends StatelessWidget {
               WeightPage(),
               LengthPage(),
               TemperaturePage(),
-              TimePage(),
+              TimePage()
             ],
           ),
           //backgroundColor: //ColorData.background_black,
