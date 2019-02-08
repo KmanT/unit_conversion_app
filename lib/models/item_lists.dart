@@ -13,6 +13,7 @@ class ItemLists {
       new UnitItem("mg", "Miligram", ConversionType.metric),
       new UnitItem("mt", "Metric Ton", ConversionType.metric),
       new UnitItem("st", "Stone", ConversionType.imperial),
+      new UnitItem("hd", "Hundred Weight", ConversionType.imperial),
       new UnitItem("it", "Imperial Ton", ConversionType.imperial),
     ];
   }

@@ -26,7 +26,7 @@ class UnitDropdownState extends State<UnitDropdown> {
 
   @override
   void initState() {
-    _selectedUnit = _units[1];
+    _selectedUnit = _units[0];
     super.initState();
   }
 

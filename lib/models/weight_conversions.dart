@@ -24,6 +24,7 @@ class WeightConversions {
   ///Holds all of the imperial units which are converted to pounds.
   static final Map<String, Decimal> _imperial = {
     "it": d("1") / d("2000"),
+    "hd": d("1") / d("100"),
     "st": d("1") / d("14"),
     "lb": d("1"),
     "oz": d("16")
